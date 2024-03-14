@@ -133,7 +133,8 @@ Execute the program using runserver command.
 
 
 ## OUTPUT
-![alt text](<slot timetable fwad.png>)
+![slot timetable fwad](https://github.com/keerthanasivakumar02/slot/assets/150827397/7ec4b73c-a6d4-45c9-a1f6-f3c862c5b6e3)
+
 
 
 
